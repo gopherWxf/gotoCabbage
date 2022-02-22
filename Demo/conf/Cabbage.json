@@ -1,0 +1,10 @@
+{
+  "IP": "0.0.0.0",
+  "Port": 6872,
+  "Name": "Cabbage",
+  "Version": "V1.0",
+  "MaxConn": 3,
+  "MaxPackageSize": 1024,
+  "WorkerPoolSize": 10,
+  "TaskQueueChanSize": 4096
+}
